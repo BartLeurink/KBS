@@ -1,6 +1,6 @@
 #!/bin/bash
 clear
-read -p "Voer jouw uniek nummer in: " uniek_nummer
+read -p "Voer jouw uniek ID in: " uniek_nummer
 if
         [ -d /home/$uniek_nummer ]
 then
